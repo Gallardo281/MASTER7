@@ -173,7 +173,7 @@ ul li a:hover {
     }
 }
 
-/*FOOTER*/
+/* FOOTER */
 
 footer{
     width: 100%;
@@ -197,9 +197,9 @@ footer{
     list-style: none;
     text-decoration: none;
     font-family: Source Sans Pro;
-    font-size: 14px;
+    font-size: 12px;
     color:blue;
-    margin: 10px;
+    margin:  -70px 5px;
+    padding: 5px;
     float: right;
-  
 }
